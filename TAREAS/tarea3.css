@@ -1,0 +1,16 @@
+#BRR {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(10%) drop-shadow(5px 5px blue (0, 0, 0));
+}
+#PP {
+  display: block;
+  margin-right: auto;
+  filter: grayscale(10%) drop-shadow(5px 5px green (0, 0, 0));
+}
+#EA {
+  display: block;
+  margin-left: auto;
+  filter: grayscale(10%) drop-shadow(5px 5px green (0, 0, 0));
+}
