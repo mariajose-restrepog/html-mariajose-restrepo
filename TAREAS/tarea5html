@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Evaluación acumulativa</title>
+  </head>
+
+  <header>
+    <h1>¿Que sera de mi despues del colegio?</h1>
+  </header>
+  <body>
+    <h3>
+      "El fracaso es una gran oportunidad para empezar ptra vez con mas
+      inteligencia" Henry Ford
+    </h3>
+    <p>
+      Al terminar el colegio entrare a la universidad de Medellin donde
+      estudiare la carrera de dereccho administrativo la cual es mi carrera
+      soñada , al mismo tiempo trabajare en la empresa de mi papa , asi como en
+      la de mi mama tambien.Para ese entonces me mudare con mi mama y mi familia
+      para el sur donde podre estar mas cerca de mi papa y la universidad. Elegi
+      estudiar derecho puesto que desde que estoy pequeña me ha interesado y a
+      medida que he ido creciendo y he conocido mas de esta me a gustadon aun
+      mas , la mayoria de mis familiares son abogados (pero diferentes
+      especializaciones) y eso ha hecho que pueda conocer un poco mas de esta
+      carrera. Elegi especializarme en Administrativo puesto quer tambien me
+      interesa todo lo relacionado a negocios y administrar , es mas , tengo
+      pensado estudiar luego una tecnologia en negocios y mercadeo ya que yo
+      sere quien tome el mandomde las empresas de mis papas y uno de mis sueños
+      es crear mi propia marca de ropa , asi como montar mis tiendas propias a
+      mi gusto.
+      <br /><br />
+      Se evaluará originalidad y estilo al modificar los códigos. Es necesario
+      agregar por lo menos una imagen al blog.
+    </p>
+  </body>
+  <img id="BRR" src="imagen1/mi.jpg" width="200" height="300" />
+  <footer>
+    Me llamo maria jose restrepo tengo 15 años y me email personal es
+    Mariajore7@gmail.com.
+    <br />
+    <a href="mailto:email@gmail.com">email</a>
+  </footer>
+</html>
