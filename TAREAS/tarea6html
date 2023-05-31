@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title>
+      sesion 4
+    </title>
+  </head>
+  <body>
+    <h1>Nata y PP</h1>
+    <img
+      src="https://i.scdn.co/image/ab6761610000e5eb3e0a5fbc871b4020abb789d7"
+      usemap="#image-map"
+    />
+
+    <map name="image-map">
+      <area
+        title="#pagina principal"
+        href="https://www.youtube.com/watch?v=_WBkqvM9w5c"
+        coords="39,746,1182,5"
+        shape="rect"
+      />
+      <img src="./imagen1/pesopluma.jpg" usemap="#image1-map" />
+
+      <map name="image1-map">
+        <area
+          title=""
+          href="https://www.youtube.com/watch?v=neie7dGK9io"
+          coords="165,281,1096,519"
+          shape="rect"
+        />
+      </map>
+      />
+
+      <map name="image-map">
+        <area
+          target=""
+          alt="prc"
+          title="prc"
+          href="https://www.youtube.com/watch?v=wlKppK3O-Y8"
+          coords="766,200,8,845"
+          shape="rect"
+        />
+      </map>
+      />
+    </map>
+    <h2>Descripcion</h2>
+    Hassan Emilio Kabande Laija, conocido como Peso Pluma, es un cantante
+    mexicano. Se especializa en el subgénero de corridos tumbados. Su fama
+    internacional comenzó en 2022. Nathanahel Ruben Cano Monge, conocido como
+    Natanael Cano, es un cantautor y rapero mexicano. Se especializa en el
+    subgénero de corridos tumbados, además de ser acreditado como creador y
+    precursor del mismo.​
+    <p></p>
+  </body>
+</html>
